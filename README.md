@@ -1,2 +1,3 @@
-# hf-da-resources
-Resources for HFDA (If you know, you know)
+# Resources for _Head First Data Analytics_
+
+The 🐈 is out of the 👜... 
